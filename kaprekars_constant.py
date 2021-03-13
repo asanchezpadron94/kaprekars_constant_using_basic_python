@@ -19,8 +19,8 @@ def find_6174():
 
         calculate_6174(number_to_find)
 
-def calculate_6174(number_to_find):
 
+def calculate_6174(number_to_find):
 
     # Convert the number to find into a list with 4 values.
     str_number_to_find = str(number_to_find)
