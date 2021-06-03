@@ -1,6 +1,6 @@
 # kaprekars_constant
 
-This is a program to find de kaprekars_constant with is always 6174.
+This is a program to find de kaprekars_constant which is always 6174.
 
 6174 is known as Kaprekar's constant[1][2][3] after the Indian mathematician D. R. Kaprekar. This number is notable for the following rule:
 
